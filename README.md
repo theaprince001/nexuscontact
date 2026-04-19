@@ -2,16 +2,6 @@
 
 A modern, secure contact management web application built with **Spring Boot 3**, **React + TypeScript**, **PostgreSQL**, and **Docker**. Features real‑time search, category filtering, CSV export, dark/light mode, and JWT authentication.
 
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Java](https://img.shields.io/badge/Java-21-orange)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.5-brightgreen)
-![React](https://img.shields.io/badge/React-18-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.4-blue)
-![Docker](https://img.shields.io/badge/Docker-✔-2496ED)
-
-<p align="center">
-  <img src="./screenshots/dashboard.png" alt="Dashboard" width="800"/>
-</p>
 
 ## ✨ Features
 
