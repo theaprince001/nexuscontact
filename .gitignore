@@ -50,3 +50,6 @@ pgdata/
 *.rar
 .env
 .env.*
+nexuscontact-backend/.env*
+nexuscontact-backend/src/main/resources/application*.yml
+nexuscontact-frontend/.env*
