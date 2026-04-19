@@ -105,11 +105,6 @@ cd frontend && npm run test
    docker compose build
    `
 
-2. **Deploy to production:**
-   `ash
-   docker compose -f docker-compose.prod.yml up -d
-   `
-
 ## 🤝 Contributing
 
 1. Fork the repository
