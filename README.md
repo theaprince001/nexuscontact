@@ -118,14 +118,5 @@ cd frontend && npm run test
 4. Push to the branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Your Name**  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername) | [Portfolio](https://yourwebsite.com)
-
----
 *Built with ❤️ using Spring Boot, React, and Docker*
