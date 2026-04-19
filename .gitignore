@@ -48,3 +48,5 @@ pgdata/
 *.zip
 *.tar.gz
 *.rar
+.env
+.env.*
